@@ -14,7 +14,10 @@ the plan are not listed here, and nothing on this page is a metric claim.
 
 ## Repositories
 
-Each repository maps to one project area, private until launch:
+Each repository maps to one project area. The five project
+repositories stay private until launch. The .github repository is the
+org's public profile repository, which GitHub requires for this
+overview page to render:
 
 - **website**: public website for carbonhosting.xyz (Laravel).
 - **panel**: Pterodactyl panel theme and deployment.
